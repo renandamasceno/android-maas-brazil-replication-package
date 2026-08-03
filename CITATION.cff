@@ -15,7 +15,9 @@ authors:
     given-names: "Paulo Antonio Leal"
 version: 1.0.0
 date-released: 2026-08-03
+doi: "10.5281/zenodo.21767014"
 repository-code: "https://github.com/renandamasceno/android-maas-brazil-replication-package"
+url: "https://doi.org/10.5281/zenodo.21767014"
 license: CC-BY-4.0
 keywords:
   - Android malware

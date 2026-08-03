@@ -1,5 +1,7 @@
 # Android MaaS Brazil Replication Package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21767014.svg)](https://doi.org/10.5281/zenodo.21767014)
+
 This repository accompanies the paper:
 
 > **Characterizing Malware-as-a-Service-Oriented Android Fraud Campaigns Targeting Brazil**
@@ -66,7 +68,7 @@ It checks CSV schemas, sample references, SHA-256 formatting and uniqueness, Boo
 
 ## Citation
 
-Please use the metadata in [`CITATION.cff`](CITATION.cff). A DOI can be added after the first archival release is deposited in Zenodo.
+Please use the metadata in [`CITATION.cff`](CITATION.cff). The archived release is available from [Zenodo](https://doi.org/10.5281/zenodo.21767014).
 
 ## License
 
