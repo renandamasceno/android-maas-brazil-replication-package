@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+
+# Malware binaries must never be committed.
+*.apk
+*.apks
+*.aab
+*.dex
+*.jar
+*.so
+*.zip
+*.7z
+*.rar
+
+# Potentially sensitive captures and analysis artifacts.
+*.pcap
+*.pcapng
+*.har
+*.burp
+*.keystore
+*.jks
+*.pem
+*.key
+.env
+.env.*

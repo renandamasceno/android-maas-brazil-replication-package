@@ -1,0 +1,4 @@
+source_sample,artifact,sha256
+S1,base.apk,b7ebb627e3531f074fb85553046dd93d522fd1b3c8d996ee91b71084cc79d051
+S1,split_x.apk,e1cfecf5e4fb0894b294447c1ce646c597a5cf8506286d3ddb9977a9c7bd7ffc
+S1,split_xx.abc.apk,ee0e6670ef2d70e740a8edee161bdce78dc859f68c32b9a9613be73c8ea15da6

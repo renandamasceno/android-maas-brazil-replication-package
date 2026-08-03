@@ -1,0 +1,7 @@
+sample_id,sha256,collection_window,lure_theme,delivery_method,static_analysis,dynamic_analysis
+S1,1bd7047740a40e48aff1df37b06ad2c1612e6c50aaaf395a16aed180cf4c296d,2026-03/2026-05,Payment-terminal financial lure,Fake Google Play-style page,true,true
+S2,1f333d910158316c6211f7b24d118aadca778abb3964f3a4b7d3914e49278b7d,2026-03/2026-05,Prize-themed financial lure,Fake Google Play-style page,true,true
+S3,bb9c6a6c84f26f5d98332089f90a4bfa735cbcc984a3f49e2ca8124db9d1600f,2026-03/2026-05,Government-benefit reimbursement fraud,Fake Google Play-style page,true,true
+S4,173192ec576111adbc0c228f75244cf627513c95ca1709036e9850f0cdb7c90b,2026-03/2026-05,NFC payment-card operation,Fake Google Play-style page,true,true
+S5,ac34dfc7b0ccafec63080336150d7cc3bc832e5925210728b6a0dfabf6b3455c,2026-03/2026-05,Betting / casino phishing,Fake Google Play-style page,true,true
+S6,48073427089d9377d50fc3ba69da9ef467d34c27fa8674291129a880fa64b9dc,2026-03/2026-05,Betting-themed phishing,Fake Google Play-style page,true,true

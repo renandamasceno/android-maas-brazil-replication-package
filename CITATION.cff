@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite this replication package and the associated paper."
+title: "Replication Package for Characterizing Malware-as-a-Service-Oriented Android Fraud Campaigns Targeting Brazil"
+type: dataset
+authors:
+  - family-names: "Damasceno"
+    given-names: "José Renan Ferreira"
+  - family-names: "Bastos"
+    given-names: "Carlos Adriel Sousa"
+  - family-names: "Pereira"
+    given-names: "Francisco Lucas Falcão"
+  - family-names: "Rodrigues"
+    given-names: "Emanuel Bezerra"
+  - family-names: "Rego"
+    given-names: "Paulo Antonio Leal"
+version: 1.0.0
+date-released: 2026-08-03
+repository-code: "https://github.com/renandamasceno/android-maas-brazil-replication-package"
+license: CC-BY-4.0
+keywords:
+  - Android malware
+  - Malware-as-a-Service
+  - mobile fraud
+  - Brazil
+  - replication package

@@ -1,0 +1,10 @@
+sample_id,artifact_type,sanitized_value
+S1,domain_pattern,playstoregooglestone-*[.]edgeone[.]app
+S2,domain,theaphotostudio[.]com
+S3,domain,cupomgratisfood[.]shop
+S4,domain,seguroprotegido[.]org
+S4,domain,missani19[.]shop
+S5,domain,pgsoft777dasorte[.]com
+S5,domain,ec2-18-228-43-105.sa-east-1.compute.amazonaws[.]com
+S6,domain,bossgoogle[.]com
+S6,domain,ec2-15-229-145-153.sa-east-1.compute.amazonaws[.]com
