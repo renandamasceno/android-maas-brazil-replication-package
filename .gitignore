@@ -26,3 +26,7 @@ __pycache__/
 *.key
 .env
 .env.*
+
+# Default output of the optional static-analysis helper. It may contain
+# extracted executable content and unsanitized operational indicators.
+analysis-output/

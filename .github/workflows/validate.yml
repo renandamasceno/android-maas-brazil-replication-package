@@ -1,0 +1,35 @@
+name: Validate replication package
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.9", "3.12"]
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Validate shell syntax
+        run: bash -n scripts/extract_android_iocs.sh
+
+      - name: Validate package
+        run: python3 scripts/validate_package.py
+
+      - name: Reproduce public summary
+        run: |
+          python3 scripts/summarize_package.py
+          python3 scripts/summarize_package.py --format json
